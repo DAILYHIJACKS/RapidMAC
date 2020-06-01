@@ -11,7 +11,11 @@ where;
 
       -t is number of seconds your MAC address will change in.
       -i is interface
-            
+
+# Snap
+
+![](snap.png)
+
 # 💩 Author:
       Qirit0
       

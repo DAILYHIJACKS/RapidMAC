@@ -6,10 +6,11 @@ in 'n' seconds and change your MAC address with SWIFT. 😲
 1. `git clone https://github.com/DAILYHIJACKS/RapidMAC/ && cd RapidMAC`
 2. `sudo pip install -r requirements.txt`
 3. `sudo python macTime.py -i wlan0 -t 10`
-where;
+
+"where;
       -t is number of seconds your MAC address will change in.
       -i is interface
-      
+"      
 # 💩 Author:
       Qirit0
       
